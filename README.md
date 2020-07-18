@@ -1,16 +1,18 @@
-### Hi there 👋
+# Hola, me llamo Jhonatan (jojo)
 
-<!--
-**jonah95419/jonah95419** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy un aficionado a la programación sin importar el entorno, lenguaje, framework, plataforma o herramienta.. Me caracterizo por mi logica de programación, lo que me permite explorar diferentes areas de programacion, claro! como un aficionado mas, **creo que me falta mucho por aprender** y cada día intento aprender y aportar un poco de conocimiento nuevo a mis habilidades actuales.
 
-Here are some ideas to get you started:
+### Software Libre
+Me gusta el Software Libre aunque no lo ocupo como deberia, pero comparto su filosofía y aunque mis proyectos principales se encuentran en modo privado, puedes hecharles un ojo sin problema.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Ambiente
+Desarrollo en un ambiente cómodo, algo de música https://open.spotify.com/user/jonah95419 🎵, algo de entretenimiento https://twitter.com/jhonatanshs 🎁, algo de ...  *(luego le termino)* 😉
+
+### Desventaja
+Mi mayor desventaja, empezar nuevos proyectos sin terminar los actuales 🤯.. creo que, una vez que logras pasar la curva del reto el resto del proyecto llega a perder su chispa 😐 
+
+Con los años simplemente he aprendido a formular mejor las preguntas, a buscar de mejor manera ... *(luego le termino)* 😉
+
+Como alguien lo dijo:
+> no me acuerdo lo que dijo, pero estoy seguro de que era importante
+
