@@ -1,4 +1,4 @@
-# Hola, me llamo Jhonatan (jojo)
+# Hola, me llamo Jhonatan
 
 Soy un aficionado a la programación sin importar el entorno, lenguaje, framework, plataforma o herramienta.. Me caracterizo por mi logica de programación, lo que me permite explorar diferentes areas de programacion, claro! como un aficionado mas, **creo que me falta mucho por aprender** y cada día intento aprender y aportar un poco de conocimiento nuevo a mis habilidades actuales.
 
@@ -13,6 +13,6 @@ Mi mayor desventaja, empezar nuevos proyectos sin terminar los actuales 🤯.. c
 
 Con los años simplemente he aprendido a formular mejor las preguntas, a buscar de mejor manera ... *(luego le termino)* 😉
 
-Como alguien lo dijo:
-> no me acuerdo lo que dijo, pero estoy seguro de que era importante
+Todos tenemos una variable:
+> String jojo = "Jhonatan estuvo aqui";
 
