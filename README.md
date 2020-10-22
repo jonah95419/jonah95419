@@ -1,6 +1,6 @@
 # Hola, soy Jhonatan
 
-Soy un aficionado a la programación sin importar el entorno, lenguaje, framework, plataforma o herramienta.. Me caracterizo por mi logica de programación, lo que me permite explorar diferentes areas de programacion, claro! como un aficionado mas, **creo que me falta mucho por aprender** y cada día intento aprender y aportar un poco de conocimiento nuevo a mis habilidades actuales.
+Soy un aficionado a la programación sin importar el entorno, lenguaje, framework, plataforma o herramienta.. Me caracterizo por mi logica de programación, lo que me permite explorar diferentes areas de programacion, claro! como un aficionado mas, **creo que me falta mucho por aprender** y cada día intento mejorar y aportar un poco de conocimiento nuevo a mis habilidades actuales.
 
 ### Software Libre
 Me gusta el Software Libre aunque no lo ocupo como deberia, pero comparto su filosofía y aunque mis proyectos principales se encuentran en modo privado, puedes hecharles un ojo sin problema.
